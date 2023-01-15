@@ -44,3 +44,5 @@ Primary key: Roll No.
 →Server Side Native NoSQL - best performance.
 
 **Release History **
+
+JsonPowerDB - V2.0
