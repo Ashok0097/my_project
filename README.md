@@ -43,6 +43,6 @@ Primary key: Roll No.
 →Multiple security layers
 →Server Side Native NoSQL - best performance.
 
-**Release History **
+**Release History**
 
 JsonPowerDB - V2.0
