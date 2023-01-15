@@ -1,5 +1,7 @@
 # Student Enrollment Form
 
+**Description**
+
 Create a form based on any one of the TOPICS given below. The form should store data in the database. The primary key and input fields of each topic is mentioned.
 
 There will be three control buttons [Save], [Update] and [Reset] at the bottom of the form. On page load or any control button click, an empty form will be displayed and the cursor will remain at the first input field in the form which will have the primary key in the relation. All other fields and buttons should be disabled at this time.
@@ -27,3 +29,18 @@ Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL
 Input Fields: {Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date}
 
 Primary key: Roll No.
+
+**Benefits of using JsonPowerDB**
+
+→Nimble, Simple to use, In Memory, Real-time
+→Schema free - easy to maintain.
+→Serverless Support - fast development - cuts time to market
+→Multi-Mode database - one solution to variety of data
+→Build around worlds fastest* indexing engine PowerIndex 
+→Webservices API - low development cost
+→A Single Instance - Million Indexes
+→Inbuilt support for Querying Multiple Databases
+→Multiple security layers
+→Server Side Native NoSQL - best performance.
+
+**Release History **
