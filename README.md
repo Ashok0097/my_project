@@ -20,9 +20,7 @@ Click on [Update] button to update the data in the database and go to step-2.
 
 Click [Reset] to reset the form as per the step-2.
 
-
-** Topic **
-
+**Topic**
 
 Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
 
